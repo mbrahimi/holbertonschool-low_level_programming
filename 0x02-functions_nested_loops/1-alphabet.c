@@ -2,13 +2,15 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main - Entry point
-*
-* Return: Always 0 (Success)
+* print_alphabet - a function that prints the alphabet, in lowercase
+* Return: Always 0 (Succes)
 */
-int main(void)
-for (ch = ‘a’; ch <= ‘z’; ch++)
-putchar(ch);
-putchar(‘\n’);
-getch()
+void print_alphabet(void)
+{
+int n;
+for (n = 'a'; n <= 'z'; n++)
+{
+_putchar(n);
+}
+putchar('\n');
 }
