@@ -1,11 +1,12 @@
-#include "main.h"
+#include <stdio.h>
 /**
-* main - check the code
-*
-* Return: Always 0.
-*/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-print_alphabet();
+char c;
+for (c = 'a'; c <= 'z'; ++c)
+printf("%c ", c);
 return (0);
-}
