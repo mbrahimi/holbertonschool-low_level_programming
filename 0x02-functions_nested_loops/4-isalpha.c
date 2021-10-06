@@ -1,5 +1,6 @@
 #include "main.h"
 #include <ctype.h>
+
 /**
 * _isalhpa - issalphaa
 *@c: integer value
