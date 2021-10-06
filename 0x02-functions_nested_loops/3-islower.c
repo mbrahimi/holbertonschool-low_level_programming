@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
-* islower - check if a character is lower than an other one
+* _islower - check if a character is lower than an other one
 *@c: integer value
-* Return: Always 0 (Succes)
+* Return: 0 or 1
 */
 int _islower(int c)
 {
-    if (islower(c))
-        return (1);
-    else
-        return (0);
+if (islower(c))
+return (1);
+else
+return (0);
 }
