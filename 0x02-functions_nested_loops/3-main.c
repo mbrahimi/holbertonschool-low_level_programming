@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * test_islower - Test the _islower function
- *
- * @n: Number to pass to _islower function
- */
+* test_islower - Test the _islower function
+*
+* @n: Number to pass to _islower function
+*/
 void test_islower(int n)
 {
 int r;
