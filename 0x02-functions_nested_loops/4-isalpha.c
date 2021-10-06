@@ -2,9 +2,9 @@
 #include <ctype.h>
 
 /**
-*_isalhpa - if c is a letter, lowercase or uppercase
+*_isalhpa - a function that checks for alphabetic character
 *@c: integer value
-* Return: 0 or 1
+* Return: 1 if c is a letter (lower or uppercase), 0 otherwise
 */
 int _isalpha(int c)
 {
