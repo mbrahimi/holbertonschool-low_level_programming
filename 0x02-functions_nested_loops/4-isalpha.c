@@ -2,7 +2,7 @@
 #include <ctype.h>
 
 /**
-* _isalhpa - issalphaa
+*_isalhpa - if c is a letter, lowercase or uppercase
 *@c: integer value
 * Return: 0 or 1
 */
