@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 * islower - check if a character is lower than an other one
 *@c: integer value
