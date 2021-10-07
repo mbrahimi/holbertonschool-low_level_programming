@@ -1,5 +1,7 @@
+#include "main.h"
+#include <stdio.h>
 /**
-* print_numbers - function for white the numbers from 0 to 9
+* print_numbers - function write the numbers from 0 to 9
 *
 * Return: 0-9 .
 */
