@@ -1,8 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
-*void print_numbers(void); - it's void
-*_putchar - for 0-9
+* void print_numbers(void); - it's void
+*
+* _putchar - for 0-9
 */
 {
 char low;
