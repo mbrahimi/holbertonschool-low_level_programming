@@ -8,8 +8,8 @@
 int main(void)
 {
 char low, 2, 4;
-e = 'e';
-q = 'q';
+e = '2';
+q = '4';
 for (low = '0'; low <= '9'; low++)
 {
 if (low != 2 && low != 4)
