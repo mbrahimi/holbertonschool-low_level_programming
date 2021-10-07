@@ -1,11 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 /**
-* 
+* void print_most_numbers(void); - for byebye 2,4
 *
 * Return: Always 0 (Success)
 */
-int main(void)
+void print_most_numbers(void);
 {
 char low, 2, 4;
 e = '2';
