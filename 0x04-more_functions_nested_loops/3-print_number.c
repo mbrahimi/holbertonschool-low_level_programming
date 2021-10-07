@@ -5,8 +5,8 @@
 *_putchar - for 0-9
 */
 {
-char low;
-for (low = '0'; low <= '9'; low++)
-putchar(low);
-putchar('\n');
+int i;
+for (i = 0; i <= 9; i++)
+_putchar(i + '0');
+_putchar('\n');
 }
