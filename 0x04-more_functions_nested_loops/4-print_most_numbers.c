@@ -13,8 +13,8 @@ q = '4';
 for (low = '0'; low <= '9'; low++)
 {
 if (low != 2 && low != 4)
-putchar(low);
+_putchar(low);
 }
-putchar('\n');
+_putchar('\n');
 return (0);
 }
