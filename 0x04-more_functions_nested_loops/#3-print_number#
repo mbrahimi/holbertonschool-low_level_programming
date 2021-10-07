@@ -1,12 +1,12 @@
-#include "main.h"
+#include 
 #include <stdio.h>
 /**
 *void print_numbers(void); - it's void
 *_putchar - for 0-9
 */
 {
-int i;
-for (i = 0; i <= 9; i++)
-_putchar(i + '0');
-_putchar('\n');
+char low;
+for (low = '0'; low <= '9'; low++)
+putchar(low);
+putchar('\n');
 }
